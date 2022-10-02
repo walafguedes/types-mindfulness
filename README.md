@@ -18,7 +18,7 @@ Foram ultilizados somente
 
 * Alteração de compartamento padrãp
 * Mapeamento de rota 
-* Javasxript Assicrono e Promisses
+* Javascript Assicrono e Promisses
 * Orientação a Objetos 
 * ES6 Modules (foi onde tive mais dificuldade)
 * Simples servidor COM NodeJS
